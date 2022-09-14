@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charlesgaps
 - 👀 I’m interested in front-end developing.
 - 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on projects that may help me progress quicker and become good in programming.
+- 💞️ I’m looking to collaborate in projects that may help me progress quicker and become good in programming.
 - 📫 How to reach me; (gakpeycharles@gmail.com)
 
 <!---
