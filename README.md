@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charlesgaps
-- 👀 I’m interested in front-end developing.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 👀 I’m interested in front-end developing, data science and analytics, healthcare and pharmacy. 
+- 🌱 I’m currently learning python, R, html, css.
 - 💞️ I’m looking to collaborate in projects that may help me progress quicker and become good in programming.
 - 📫 How to reach me; (gakpeycharles@gmail.com)
 
